@@ -1,0 +1,8 @@
+{
+  "prettier": {
+    "printWidth": 80,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "comment": true
+  }
+}
